@@ -1,0 +1,9 @@
+server:
+  address: 0.0.0.0
+  port: 8101
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://121.43.121.180:3306/eggbi
+    username: zengyanxin
+    password: 123456
